@@ -4,7 +4,7 @@
 
 ### 👋 Hey there! I'm Kartik Lashkare 
 
-I’m a **21-year-old Tinkerer and Mechanical Engineer** based in Pune, India. Currently in my third year at **Dr. DY Patil Institute of Technology**, I’m pursuing a Bachelor's degree in Mechanical Engineering with a minor in **Artificial Intelligence and Machine Learning**. I’m passionate about **Android development, cloud computing,** and **mechanical design**. Whether I'm building custom Android ROMs or designing solid models, I'm always looking to merge my skills and interests to create innovative solutions.
+I’m a **Tinkerer and Mechanical Engineer** based in Pune, India. Currently in my final year at **Dr. DY Patil Institute of Technology**, I’m pursuing a Bachelor's degree in Mechanical Engineering with a minor in **Artificial Intelligence and Machine Learning**. I’m passionate about **Android development, cloud computing,** and **mechanical design**. Whether I'm building custom Android ROMs or designing solid models, I'm always looking to merge my skills and interests to create innovative solutions.
 
 ---
 
@@ -12,6 +12,43 @@ I’m a **21-year-old Tinkerer and Mechanical Engineer** based in Pune, India. C
 A true **problem-solver** and **tinkerer**, I started with a strong foundation in **Computer Science** from Fergusson College, where I learned **C++, Assembly, Visual Basic, HTML, CSS** and more. My journey has led me to pursue interests across **Mechanical Engineering**, **Android Development**, and **Cloud Computing**.
 
 In addition to tech, I also have experience with public realations, campaigning, community outreach and digital content creation, supporting initiatives through **National Service Scheme-DIT**.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering (B.E.) in Mechanical Engineering**  
+*Dr. D. Y. Patil Institute of Technology, Pune*  
+*2021 - 2025 (Expected)*
+- **Minor**: Artificial Intelligence and Machine Learning
+- **Relevant Coursework**: Machine Design, Thermodynamics, Manufacturing Processes, Fluid Mechanics, CAD/CAM, AI/ML Fundamentals
+- **Activities**: National Service Scheme (NSS), Technical Projects, Community Outreach Programs
+
+**Higher Secondary Education (Computer Science)**  
+*Fergusson College, Pune*  
+*2019 - 2021*
+- **Focus Areas**: Computer Science Fundamentals, Programming (C++, Assembly, Visual Basic), Web Technologies (HTML, CSS)
+- Strong foundation in computational thinking and problem-solving
+
+---
+
+### 💼 Experience & Leadership
+
+**Official Maintainer - Pixel Experience**  
+*Custom ROM Development for Poco X5 Pro 5G*  
+*2023 - Present*
+- Maintain and develop Android 13 and Android 14 custom ROMs for Poco X5 Pro 5G
+- Implement advanced features including Dolby Atmos audio enhancement and Leica Camera integration
+- Troubleshoot and resolve critical issues related to fast charging, battery optimization, and Google Play integrity
+- Collaborate with the global Android development community and provide regular updates
+
+**Active Member - National Service Scheme (NSS)**  
+*Dr. D. Y. Patil Institute of Technology*  
+*2021 - Present*
+- Engage in community outreach programs and social initiatives
+- Lead public relations and campaigning efforts for various social causes
+- Create digital content for awareness campaigns
+- Coordinate and manage community engagement activities
 
 ---
 
@@ -58,6 +95,22 @@ In addition to tech, I also have experience with public realations, campaigning,
 - **Official Maintainer for Pixel Experience (Poco X5 Pro 5G)**: Built and optimized Android 13 and 14 with enhanced features like Dolby Atmos and Leica Camera. Addressed issues such as fast charging, battery optimization, and Google Play integrity.
 - **Linux Swap Partitioning Tool**: A beginner-friendly Bash script for creating swap partitions on Debian-based Linux distributions.
 - **SUNFLOWER - The Solar Tracker**: Designed a dual-axis solar tracker with LDRs and Arduino, improving solar panel efficiency by up to 30%.
+
+---
+
+### 🏆 Achievements & Certifications
+
+**Professional Certifications**
+- Cloud Computing Foundations (AWS, Google Cloud, Azure)
+- Android Development and AOSP Fundamentals
+- Mechanical CAD Design (CATIA)
+
+**Key Achievements**
+- 🏅 Official Maintainer for Pixel Experience Custom ROM (2023-Present)
+- 🌟 Successfully built and deployed Android 13 and 14 ROMs for Poco X5 Pro 5G
+- 🔧 Improved solar panel efficiency by 30% through innovative dual-axis solar tracker design
+- 🤝 Active contributor to open-source Android development community
+- 📱 Resolved critical issues in custom ROM development including Google Play integrity and battery optimization
 
 ---
 
